@@ -11,4 +11,4 @@ services:
   order-service:
     build: ./order-service
     ports:
-      - "6000:6000"
+      - "3000:3000"
