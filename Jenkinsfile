@@ -1,5 +1,4 @@
 pipeline {
-
     agent {label 'local'}
     environment {
         REGISTRY = 'local'
